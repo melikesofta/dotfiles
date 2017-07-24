@@ -8,3 +8,5 @@ mkdir -p ~/.vim/colors
 curl https://raw.githubusercontent.com/altercation/vim-colors-solarized/master/colors/solarized.vim > ~/.vim/colors/solarized.vim
 
 rm -rf ~/dotfiles
+
+source ~/.bash_profile
