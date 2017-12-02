@@ -8,12 +8,7 @@ set wrap
 set tabstop=4
 set laststatus=2
 syntax enable
-set background=dark
-colorscheme solarized
 filetype plugin indent on
-let g:lightline = {
-      \ 'colorscheme': 'seoul256',
-      \ }
 set backspace=indent,eol,start
 
 " Make it obvious where 80 characters is
